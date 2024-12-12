@@ -1,7 +1,7 @@
 # Machine Learning Path
 
 ## Overview
-We built a Machine Learning model for the Temfore application using TensorFlow as the framework, and then utilized VSCode and Google Colab as the IDEs. In the process, we used pandas for data manipulation, followed by Numpy and scikit-learn for score calculations and recommendation functions.
+We built a Machine Learning model for Temfore application using TensorFlow as the framework, and then utilized VSCode and Google Colab as the IDEs. In the process, we used pandas for data manipulation, followed by Numpy and scikit-learn for score calculations and recommendation functions.
 ## Dataset :
 
 ## Data Wrangling
